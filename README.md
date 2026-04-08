@@ -8,7 +8,7 @@ Sou um estudante e desenvolvedor apaixonado por tecnologia, com foco em criar so
 * **Ferramentas:** Git, GitHub, VSCode, BI
 
 ### 📊 Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Berlimbe&show_icons=true&theme=radical)
+![Estatísticas do GitHub]([https://github-readme-stats.vercel.app/api?username=Berlimbe&show_icons=true&theme=radical](https://github.com/Berlimbe))
 
 ### 📫 Como me encontrar
 * **LinkedIn:** Bernardo Almeida(www.linkedin.com/in/bernardo-almeida-29b126213)
