@@ -10,8 +10,9 @@ Sou um estudante e desenvolvedor focado em back-end, apaixonado por resolver pro
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Berlimbe&show_icons=true&theme=dracula&hide_border=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Berlimbe&layout=compact&theme=dracula&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Berlimbe&theme=dracula&hide_border=true)
 ---
 
 ### Vamos nos conectar!
