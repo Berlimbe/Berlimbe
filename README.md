@@ -15,6 +15,6 @@ Sou um estudante e desenvolvedor focado em back-end, apaixonado por resolver pro
 ---
 
 ### Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bernardo-almeida-29b126213)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-almeida-29b126213)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardoaa.rosa@gmail.com)
-[![Currículo](https://img.shields.io/badge/Ver_Currículo-333333?style=for-the-badge&logo=google-drive&logoColor=white)]([LINK_DO_CURRICULO_AQUI](https://docs.google.com/document/d/16q_cigAVQRU42pX-iIaXRNLjKkFC1JFa5DG4JmsQ3wE/edit?usp=sharing))
+[![Currículo](https://img.shields.io/badge/Ver_Currículo-333333?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/16q_cigAVQRU42pX-iIaXRNLjKkFC1JFa5DG4JmsQ3wE/edit?usp=sharing)
