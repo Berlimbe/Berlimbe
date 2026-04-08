@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Sou o [Seu Nome ou Apelido Profissional] 👋
 
-<!--
-**Berlimbe/Berlimbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante e desenvolvedor apaixonado por tecnologia, com foco em criar soluções práticas e eficientes. Atualmente estou aprimorando minhas habilidades e desenvolvendo projetos pessoais para aplicar meus conhecimentos.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** C#, Java, PHP
+* **Desenvolvimento Web:** HTML, CSS
+* **Ferramentas:** Git, GitHub, [adicione outras se souber, ex: MySQL, Visual Studio]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+### 📫 Como me encontrar
+* **LinkedIn:** [Meu LinkedIn](link-para-o-seu-linkedin-aqui)
+* **E-mail:** seu.email.profissional@gmail.com
