@@ -1,14 +1,19 @@
-# <p align="center">Olá, eu sou o Bernardo Aurelio Almeida Rosa! 👋</p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Bernardo+Aurelio+Almeida+Rosa" alt="Nome Animado" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;Entusiasta+de+C%23+e+Java;Resolvendo+problemas+com+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;PHP+Laravel+|+C%23+|+Java;Análise+de+Dados+com+Power+BI" alt="Subtítulo Animado" />
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+### 📋 Sobre Mim
 
-Sou um estudante e desenvolvedor focado em **back-end**, apaixonado por resolver problemas e criar sistemas eficientes. Sempre em busca de aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
+<p align="left">
+✨ **Atualmente:** Focado em aperfeiçoar arquiteturas escaláveis com PHP Laravel e .NET.<br>
+🔭 **Objetivo:** Criar sistemas que resolvam problemas reais com eficiência e elegância.<br>
+🌱 **Aprendendo:** Novas técnicas de análise de dados e Dashboards avançados.<br>
+⚡ **Interesse:** Automação de processos e integração de sistemas robustos.
+</p>
 
 ---
 
@@ -16,7 +21,7 @@ Sou um estudante e desenvolvedor focado em **back-end**, apaixonado por resolver
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,html,git,mysql,docker,postman&perline=9" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,laravel,html,git,mysql,powerbi&perline=9" />
   </a>
 </p>
 
@@ -54,7 +59,4 @@ Sou um estudante e desenvolvedor focado em **back-end**, apaixonado por resolver
   <a href="mailto:bernardoaa.rosa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- <a href="https://docs.google.com/document/d/16q_cigAVQRU42pX-iIaXRNLjKkFC1JFa5DG4JmsQ3wE/edit?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-333333?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a> -->
 </p>
