@@ -1,7 +1,9 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Bernardo+Aurelio+Almeida+Rosa" alt="Nome Animado" /> </p>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Bernardo+Aurelio+Almeida+Rosa" alt="Nome Animado" /> 
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;PHP+Laravel+|+C%23+|+Java;Análise+de+Dados+com+Power+BI" alt="Subtítulo Animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end;PHP+Laravel+|+C%23+|+Java;Análise+de+Dados+com+Power+BI" alt="Descrição em Amarelo" />
 </p>
 
 ---
@@ -9,10 +11,10 @@
 ### 📋 Sobre Mim
 
 <p align="left">
-✨ **Atualmente:** Focado em aperfeiçoar arquiteturas escaláveis com PHP Laravel e .NET.<br>
-🔭 **Objetivo:** Criar sistemas que resolvam problemas reais com eficiência e elegância.<br>
-🌱 **Aprendendo:** Novas técnicas de análise de dados e Dashboards avançados.<br>
-⚡ **Interesse:** Automação de processos e integração de sistemas robustos.
+✨ Focado em aperfeiçoar arquiteturas escaláveis com PHP Laravel e .NET.<br>
+🔭 Criar sistemas que resolvam problemas reais com eficiência e elegância.<br>
+🌱 Aprendendo novas técnicas de análise de dados e Dashboards avançados.<br>
+⚡ Automação de processos e integração de sistemas robustos.
 </p>
 
 ---
@@ -50,7 +52,7 @@
 
 ---
 
-### 📫 Vamos nos conectar!
+### Vamos nos conectar!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bernardo-almeida-29b126213" target="_blank">
