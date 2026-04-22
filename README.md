@@ -15,10 +15,10 @@
 ### 📋 Sobre Mim
 
 <p align="left">
-✨ Focado em aperfeiçoar arquiteturas escaláveis com PHP Laravel e .NET.<br>
-🔭 Criar sistemas que resolvam problemas reais com eficiência e elegância.<br>
-🌱 Aprendendo novas técnicas de análise de dados e Dashboards avançados.<br>
-⚡ Automação de processos e integração de sistemas robustos.
+- Focado em aperfeiçoar arquiteturas escaláveis com PHP Laravel e .NET.<br>
+- Criar sistemas que resolvam problemas reais com eficiência e elegância.<br>
+- Aprendendo novas técnicas de análise de dados e Dashboards avançados.<br>
+- Automação de processos e integração de sistemas robustos.
 </p>
 
 ---
